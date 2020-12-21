@@ -16,3 +16,4 @@
 本项目部分代码参考开源仓库 [reid-strong-baseline](https://github.com/michuanhaohao/reid-strong-baseline)、[fast-reid](https://github.com/JDAI-CV/fast-reid)、[PyRetri](https://github.com/PyRetri/PyRetri)
 
 本代码增加了double heads结构
+![double heads](/img/20201221131556.png)
