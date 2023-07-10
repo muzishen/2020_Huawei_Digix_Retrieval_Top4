@@ -19,4 +19,4 @@
 ![double heads](/img/20201221131556.png)
 
 ## Acknowledgement
-Thanks to my teammate Xin He for his great support :blush:!
+Thanks to my teammate [Xin He](https://github.com/whut2962575697) for his great support :blush:!
